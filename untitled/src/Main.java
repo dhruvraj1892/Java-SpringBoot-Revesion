@@ -22,7 +22,7 @@ public class Main {
 
         //  "The default dependency scope in Maven is compile, which makes the dependency available during compilation, testing, and runtime."
 
-       // JDBC (Java Database Connectivity) is a Java API used to connect a Java application with a database and perform operations like:CRUD
+        // JDBC (Java Database Connectivity) is a Java API used to connect a Java application with a database and perform operations like:CRUD
         // it acts a bridge between a java application and databse
 
 //        String url = "jdbc:postgresql://localhost:5432/demo";
@@ -38,9 +38,9 @@ public class Main {
 //        st.execute(sql);
 //        con.close();
 
-      //  A JDBC driver enables Java application to communicate with a particular database.
+        //  A JDBC driver enables Java application to communicate with a particular database.
 
-     // PreparedStatement improves performance by allowing the database to prepare the SQL statement once and reuse it with different parameter values,
+        // PreparedStatement improves performance by allowing the database to prepare the SQL statement once and reuse it with different parameter values,
         // reducing repeated parsing and compilation overhead. It also provides protection against SQL injection.
 //        String url = "jdbc:postgresql://localhost:5432/demo";
 //        String username = "postgres";
